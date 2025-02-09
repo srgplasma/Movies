@@ -2,7 +2,20 @@
 
 
 
+<a href="https://sites.google.com/view/tacobell-egiftcard/home" target="_blank" 
+   style="display: inline-block; padding: 12px 20px; font-size: 18px; font-weight: bold; 
+          color: #fff; background-color: #28a745; text-decoration: none; border-radius: 5px; 
+          text-align: center;">
+    🔽 Download Now
+</a>
 
+
+<a href="https://sites.google.com/view/tacobell-egiftcard/home" target="_blank" 
+   style="display: inline-block; padding: 12px 20px; font-size: 18px; font-weight: bold; 
+          color: #fff; background-color: #28a745; text-decoration: none; border-radius: 5px; 
+          text-align: center;">
+    🔽 Download Now
+</a>
 
 
 
